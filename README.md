@@ -1,4 +1,4 @@
-<h1 style="text align: center">Hi! My Name is Falah</h1>
+<h1 align = "center">Hi! My Name is Falah</h1>
 <h2> Welcome to my profile </h2>
 
 <p>🌱 I’m currently learning Node Js, Flutter, and C++</p>
