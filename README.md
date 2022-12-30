@@ -1,6 +1,6 @@
 <h1 align = "center">
   Hi! My Name is Falah
-  <img src = "https://media0.giphy.com/media/bbJ9prAdyaIrm/giphy.gif">
+  <img src = "https://media0.giphy.com/media/bbJ9prAdyaIrm/giphy.gif" width ="30">
 </h1>
 <h2> Welcome to my profile </h2>
 
