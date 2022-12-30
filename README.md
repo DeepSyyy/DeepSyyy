@@ -22,7 +22,8 @@
   <img alt="Dart" src = "https://img.shields.io/badge/-Dart-1a408b?logo=dart&style=flat-square">
   <img alt="Go" src = "https://img.shields.io/badge/-GO-8bd8bd?logo=go&style=flat-square&logoColor=white">
   <img alt ="JavaScript" src = "https://img.shields.io/badge/-JavaScript-fff001?logo=JavaScript&style=flat-square&logoColor=white">
-  <img alt ="Nodedotjs" src = "https://img.shields.io/badge/-JavaScript-00d040?logo=nodedotjs&style=flat-square&logoColor=white">
+  <img alt ="Nodedotjs" src = "https://img.shields.io/badge/-NodeJs-00d040?logo=nodedotjs&style=flat-square&logoColor=white">
+  <img alt = "Python" src = "https://img.shields.io/badge/-python-fffa00?logo=python&style=flat-square&logoColor=white">
 </p>
 <!--
 **DeepSyyy/DeepSyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
