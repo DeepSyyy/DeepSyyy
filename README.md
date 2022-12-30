@@ -5,7 +5,7 @@
 
 <p>🔭 I’m currently study at on telkom</p>
 <p>🌱 I’m currently learning Node Js, Flutter, and C++</p>
-<p>📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/falah-asyraf-darmawan-putra-4699b9207/)</p>
+<p>📫 How to reach me: </p>[LinkedIn](https://www.linkedin.com/in/falah-asyraf-darmawan-putra-4699b9207/)
 <!--
 **DeepSyyy/DeepSyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
