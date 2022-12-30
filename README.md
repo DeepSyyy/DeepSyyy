@@ -25,6 +25,11 @@
   <img alt ="Nodedotjs" src = "https://img.shields.io/badge/-NodeJs-00d040?logo=nodedotjs&style=flat-square&logoColor=white">
   <img alt = "Python" src = "https://img.shields.io/badge/-Python-fffa00?logo=python&style=flat-square&logoColor=white">
 </p>
+
+## 👾Framework that I learned
+<p>
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-1dc7eb?logo=flutter&style=flat-square&logoColor=white">
+</p>
 <!--
 **DeepSyyy/DeepSyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
