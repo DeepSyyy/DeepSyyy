@@ -1,7 +1,7 @@
 <img src = "https://github.com/DeepSyyy/DeepSyyy/blob/main/DeepSyy%20(1).png">
 
 ### Hi! My name Is Falah 👋
-### Welcome to my github
+<h2> Welcome to my Github </h2>
 <!--
 **DeepSyyy/DeepSyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
