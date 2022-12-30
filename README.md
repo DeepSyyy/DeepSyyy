@@ -1,6 +1,6 @@
 <h1 align = "center">
   Hi! My Name is Falah
-  <iframe src="https://giphy.com/embed/D1C1LLNOSL4xvjiUkM" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/chill-hand-hang-loose-D1C1LLNOSL4xvjiUkM">via GIPHY</a></p>
+  <img src="https://giphy.com/embed/D1C1LLNOSL4xvjiUkM" width="48" height="48" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </h1>
 <h2> Welcome to my profile </h2>
 
