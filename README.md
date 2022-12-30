@@ -1,4 +1,4 @@
-<img src = "https://github.com/DeepSyyy/DeepSyyy/blob/main/DeepSyy.png">
+<img src = "[https://github.com/DeepSyyy/DeepSyyy/blob/main/DeepSyy.png](https://github.com/DeepSyyy/DeepSyyy/blob/main/DeepSyy%20(1).png)">
 
 ### Hi there 👋
 
