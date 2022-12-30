@@ -2,6 +2,10 @@
 
 ### Hi! My name Is Falah 👋
 <h2> Welcome to my Github </h2>
+
+<p>🔭 I’m currently study at on telkom</p>
+<p>🌱 I’m currently learning Node Js, Flutter, and C++</p>
+<p>📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/falah-asyraf-darmawan-putra-4699b9207/)</p>
 <!--
 **DeepSyyy/DeepSyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
