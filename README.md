@@ -1,11 +1,11 @@
-<img src = "https://github.com/DeepSyyy/DeepSyyy/blob/main/DeepSyy%20(1).png">
+<h1 style="text align: center">Hi! My Name is Falah</h1>
+<h2> Welcome to my profile </h2>
 
-### Hi! My name Is Falah 👋
-<h2> Welcome to my Github </h2>
-
-<p>🔭 I’m currently study at on telkom</p>
 <p>🌱 I’m currently learning Node Js, Flutter, and C++</p>
-<p>📫 How to reach me: <a href="https://www.linkedin.com/in/falah-asyraf-darmawan-putra-4699b9207/">LinkedIn</a>
+<p>📫 How to reach me: <a href="https://www.linkedin.com/in/falah-asyraf-darmawan-putra-4699b9207/">LinkedIn</a></p>
+<p>😄 Pronouns: He/Him</p>
+<p>⚡ Fun fact: i code during my free time instead of playing outside</p>
+
 <!--
 **DeepSyyy/DeepSyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
