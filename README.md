@@ -9,6 +9,17 @@
 <p>😄 Pronouns: He/Him</p>
 <p>⚡ Fun fact: i code during my free time instead of playing outside</p>
 
+
+## 📚 My Project
+<a href = "https://github.com/DeepSyyy/Buku_Pelajaran_Flutter">Project: Flutter-Buku-Pelajaran</a>
+
+## 📖 My Assignment at School
+<a href = "https://github.com/DeepSyyy/TUBES_CODEBLOCKS">Tugas Besar: Struktur Data</a>
+
+## 💻 Code that I learned
+<p>
+  <img alt="Dart" src = "https://img.shields.io/badge/-Dart-61DAFB?logo=dart">
+</p>
 <!--
 **DeepSyyy/DeepSyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
