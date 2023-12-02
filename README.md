@@ -11,6 +11,7 @@
 
 ## 📚 My Project
 <a href = "https://github.com/DeepSyyy/Buku_Pelajaran_Flutter">Project: Flutter-Buku-Pelajaran</a>
+<a href = "https://github.com/DeepSyyy/movie_db">Project: Flutter-movie-db</a>
 
 ## 📖 My Assignment at School
 <a href = "https://github.com/DeepSyyy/TUBES_CODEBLOCKS">Tugas Besar: Struktur Data</a>
