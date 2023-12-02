@@ -10,8 +10,8 @@
 
 
 ## 📚 My Project
-<a href = "https://github.com/DeepSyyy/Buku_Pelajaran_Flutter">Project: Flutter-Buku-Pelajaran</a>
-<a href = "https://github.com/DeepSyyy/movie_db">Project: Flutter-movie-db</a>
+<p>Project 1: <a href = "https://github.com/DeepSyyy/Buku_Pelajaran_Flutter">Project: Flutter-Buku-Pelajaran</a></p>
+<p>Project 2: <a href = "https://github.com/DeepSyyy/movie_db">Project: Flutter-movie-db</a></p>
 
 ## 📖 My Assignment at School
 <a href = "https://github.com/DeepSyyy/TUBES_CODEBLOCKS">Tugas Besar: Struktur Data</a>
