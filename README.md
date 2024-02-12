@@ -30,6 +30,13 @@
 <p>
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-1dc7eb?logo=flutter&style=flat-square&logoColor=white">
 </p>
+
+<p align="left">
+<a href="https://github.com/DeepSyyy">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DeepSyyy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DeepSyyy&layout=compact&theme=algolia"/>
+</a>
+</p>
 <!--
 **DeepSyyy/DeepSyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
