@@ -13,6 +13,9 @@
 <p>Project 1: <a href = "https://github.com/DeepSyyy/Buku_Pelajaran_Flutter">Project: Flutter-Buku-Pelajaran</a></p>
 <p>Project 2: <a href = "https://github.com/DeepSyyy/movie_db">Project: Flutter-movie-db</a></p>
 <p>Project 3: <a href = "https://github.com/DeepSyyy/my-traveler-app">Project: Kotlin-my-traveler-app</a></p>
+<p>Project 4: <a href = "https://github.com/DeepSyyy/profile-search-github">Project: Kotlin-profile-github-searcher</a></p>
+<p>Project 5: <a href = "https://github.com/DeepSyyy/deer-diary">Project: Kotlin-deer-diary</a></p>
+<p>Project 6: <a href = "https://github.com/DeepSyyy/restaurant_app_bloc_clean_architecture">Project: Restaurant-app-with-bloc</a></p>
 
 ## 📖 My Assignment at School
 <a href = "https://github.com/DeepSyyy/TUBES_CODEBLOCKS">Tugas Besar: Struktur Data</a>
@@ -25,7 +28,8 @@
   <img alt="Go" src = "https://img.shields.io/badge/-GO-8bd8bd?logo=go&style=flat-square&logoColor=white">
   <img alt ="JavaScript" src = "https://img.shields.io/badge/-JavaScript-fff001?logo=JavaScript&style=flat-square&logoColor=white">
   <img alt ="Nodedotjs" src = "https://img.shields.io/badge/-NodeJs-00d040?logo=nodedotjs&style=flat-square&logoColor=white">
-  <img alt = "Python" src = "https://img.shields.io/badge/-Python-fffa00?logo=python&style=flat-square&logoColor=white">
+  <img alt = "Python" src = "https://img.shields.io/badge/-Python-fffa00?logo=python&style=flat-square">
+  <img alt = "Kotlin" src = "https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white">
 </p>
 
 ## 👾Framework that I learned
