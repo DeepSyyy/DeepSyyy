@@ -8,9 +8,6 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/falah-asyraf-darmawan-putra-4699b9207/)
 - 📧 Email: falah.asyraf0319@gmail.com
 
-### 😄 Pronouns:
-He/Him  
-
 ---
 
 ## 📚 My Projects
@@ -35,6 +32,8 @@ Here are some of my featured projects:
   _(Applying clustering and classification techniques on datasets)_  
 - 🎮 **[Sentiment Analysis on Roblox App](https://github.com/DeepSyyy/Submisi-awal-dicoding-pengembangan--mlachin)**  
   _(Performing sentiment analysis on user reviews of the Roblox app)_
+- ♻️ **[Recyclable and Household Waste Classification using MobileNetV2](https://github.com/DeepSyyy/Tugas-Tren-Visi-Komputer-S2)**
+  _(Building a waste classification model using the MobileNetV2 architecture to distinguish between recyclable and household waste)_
   
 ---
 
